@@ -1,1 +1,1 @@
-Welcome to the GitHub
+Welcome to the GitHub Lock File
